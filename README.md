@@ -98,7 +98,7 @@ bash DSA/ │ ├── basics/ ├── arrays/ ├── binary/ ├── bi
 
 # Goals
 
-- Solve 300+ DSA problems with strong understanding
+- Solve 250+ DSA problems with strong understanding
 - Improve problem-solving speed and logic
 - Build consistency in coding daily
 - Prepare for internships and software engineering interviews
